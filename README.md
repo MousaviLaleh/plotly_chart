@@ -26,13 +26,14 @@ By selectig the test ID charts show the data.
 
 <br/>
 <br/>
-It is possible to focus on specific area ba dragging the mouse on that, and double-click will return you too normal size of the chart.
+It is possible to focus on specific area ba dragging the mouse on bubble and bar charts. 
 <br/>
 <br/>
 
 ![01.png](images/01.png)
 
 <br/>
+Double-click on selected area, will return you too normal size of the chart.
 
 ![02.png](images/02.png)
 
