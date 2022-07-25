@@ -6,12 +6,12 @@ This project focuses on building an interactive dashboard to visualize the bacte
 <br/>
 
 ### Resources
-- Data Sources: [Belly Button Sample Data](samples.json)
-- Work Environment : HTLM, CSS, Java Script, Bootstrap 3.3.7
+- Data Sources: &nbsp; [Belly Button Sample Data](samples.json)
+- Work Environment : &nbsp; HTLM, CSS, Java Script, Bootstrap 3.3.7
 
 
 
 ### Link to website
-Visit the website: https://mousavilaleh.github.io/BellyButton/
+Visit the website: &nbsp; https://mousavilaleh.github.io/BellyButton/
 
 
