@@ -78,10 +78,11 @@ function buildCharts(sample) {
     var otuLabel = firstSample.otu_labels;
     var sampleValue = firstSample.sample_values;
 
+
     // // 7. Create the yticks for the bar chart.
     // // Hint: Get the the top 10 otu_ids and map them in descending order  
     // // so the otu_ids with the most bacteria are last. 
-    var yticks = otuID.slice(0, 10).map(id => "OTU " + id).reverse();
+    var yticks = otuID.slice(0, 10).map(id => "OTU " + id ).reverse();
 
     // // 8. Create the trace for the bar chart. 
     var barData = [{
@@ -95,9 +96,7 @@ function buildCharts(sample) {
     // // 9. Create the layout for the bar chart. 
     var barLayout = {
       title: '<b>Top 10 Bacteria Cultures Found</b>',
-      font:{
-        family: 'Raleway, sans-serif'
-      },
+      font: {'color': "black", 'family': "Arial", 'size': "15px"},
     };
 
     // // 10. Use Plotly to plot the data with the layout. 
@@ -127,7 +126,8 @@ function buildCharts(sample) {
       title: '<b>Bacteria Culture Per Sample</b>',
       xaxis: { title: 'OTU ID' },
       yaxis: { title: sampleValue },
-      text: otuLabel
+      text: otuLabel,
+      font: {'color': "black", 'family': "Arial"},
     };
 
     // // 3. Use Plotly to plot the data with the layout.
@@ -135,6 +135,7 @@ function buildCharts(sample) {
 
 
 
+    
 
     // // Guage Chart
     
@@ -162,6 +163,7 @@ function buildCharts(sample) {
       domain:{x:[0, 1], y: [0, 1] },
       value: wfreq,
       title: {text: '<b>Belly Button Washing Frequency</b><br><br><br>Scrubs per week'},
+      font: {'family': "Arial"},
       type: 'indicator',
       mode: 'gauge+number',
       gauge: {
@@ -184,7 +186,7 @@ function buildCharts(sample) {
     // // 5. Create the layout for the gauge chart.
     var gaugeLayout = {
       autosize: true,
-      font : {'color': "black", 'family': "Arial"},
+      font : {'color': "black", 'family': "Arial", 'size': "15px"},
       annotations: [{
         xref: 'paper',
         yref: 'paper',
