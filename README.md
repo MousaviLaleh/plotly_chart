@@ -18,7 +18,7 @@ Visit the website: &nbsp; https://mousavilaleh.github.io/BellyButton/
 
 ## Summary
 
-By selectig the test ID charts show the data.
+By selectig the test ID, charts show the data.
 <br/>
 
 ![capture.png](images/capture.png)
