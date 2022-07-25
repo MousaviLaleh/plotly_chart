@@ -7,7 +7,7 @@ This project focuses on building an interactive dashboard to visualize the bacte
 
 ### Resources
 - Data Sources: &nbsp; [Belly Button Sample Data](samples.json)
-- Work Environment : &nbsp; HTLM,&nbsp; CSS,&nbsp; Java Script,&nbsp; Bootstrap 3.3.7,&nbsp; [Plotly](https://plotly.com/javascript/getting-started/)
+- Work Environment : &nbsp; HTLM,&nbsp; CSS,&nbsp; Java Script,&nbsp; Bootstrap 3.3.7,&nbsp; [Plotly.js](https://plotly.com/javascript/getting-started/)
 
 <br/>
 
