@@ -14,6 +14,8 @@ This project focuses on building an interactive dashboard to visualize the bacte
 ### Link to website
 Visit the website: &nbsp; https://mousavilaleh.github.io/BellyButton/
 
+<br/> 
+
 ## Summary
 
 By selectig the test ID charts show the data.
