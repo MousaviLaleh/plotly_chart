@@ -26,8 +26,7 @@ By selectig the test ID charts show the data.
 
 <br/>
 <br/>
-You can focus on specific area ba dragging the mouse on that, and double-click will return you too normal size of the chart.
-<br/>
+You can focus on specific area ba dragging the mouse on that, and double-click will return you too normal size of the chart. <br/>
 
 ![01.png](images/01.png)
 
