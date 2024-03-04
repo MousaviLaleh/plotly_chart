@@ -1,7 +1,8 @@
-# plotly_chart
+# Plotly Chart
 
 ## Overview of Project
-This project focuses on building an interactive dashboard to visualize the bacterial species living in the navel of candidates of a research about meat protein synthesis from human bacteria.
+This project focuses on building an interactive dashboard to visualize the bacterial species living in the navel of candidates of a research about meat protein synthesis from human bacteria. <br/>
+The program first reads the data from a `.json` file, plot the data with the ability to filter and have interaction with.
 
 <br/>
 
